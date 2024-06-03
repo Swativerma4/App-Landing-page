@@ -1,0 +1,78 @@
+.container-page2{
+    display: flex;
+    height: 100%; 
+    position: relative;
+    margin-left: 150px;
+    margin-top: 390px;
+    position: sticky;
+}
+.container-header-2{
+    font-weight: 700;
+}
+.container-ring{
+    width: 35px;
+    height: 35px;
+    
+}
+.container-page2-right {
+    position: relative;
+    width: 50%; 
+    height: 100%;
+    position: sticky;
+    margin-top: 200px; 
+  }
+  
+  .container-grp,
+  .container-rings,
+  .container-phone {
+    position: absolute;
+   
+   
+  }
+  .page-group{
+      position: absolute;
+      margin-left: 211px;
+      margin-top: -10px;
+      width: 400px;
+  }
+  .container-grp {
+    margin-top: -350px;
+    left: 0;
+    z-index: 1;
+    transform: rotate(150deg); 
+    margin-left: -20px;
+  }
+  
+  
+  .container-rings {
+    margin-top: -400px; 
+    left: 20px; 
+    z-index: 2;
+  }
+  
+  .container-phone {
+  margin-top: -350px; 
+    margin-left: 130px; 
+    z-index: 3; 
+    transform: rotate(15deg);
+  }
+  .container-budget{
+    margin-left: -31px;
+    font-weight: 600;
+    line-height: 28px;
+    font-size: 18px;
+}
+.container-para{
+    margin-left: -75px;
+    margin-top: 14px;
+    width: 400px;
+
+}
+.page2-star{
+    position: absolute;
+    margin-top: -700px;
+    margin-left: 600px;
+    position: sticky;
+
+
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Clash+Display:wght@700&display=swap');
+.custom-home-link {
+    font-family: 'Clash Display';
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: left;
+    width: 60px;
+    height: 26px;
+    gap: 0px;
+    opacity: 2;
+    color: #FF5555;
+    margin-left: 10px;
+    
+ 
+}
+.custom-nav-link{
+    font-family: 'Clash Display';
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 30px;
+    color: #000000;
+    line-height: 27px;
+ 
+}

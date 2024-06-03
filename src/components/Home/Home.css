@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Clash+Display:wght@700&display=swap');
+
+.container {
+    display: flex;
+    margin-left: 160px;
+   
+}
+
+.container-left {
+    display: flex;
+    flex-direction: column;
+    margin-right: 470px;
+    margin-top: 140px;
+    height: 400px;
+    margin-left: -134px;
+    margin-bottom: 10px;
+    position: relative;
+  
+}
+.left-star{
+    position: absolute;
+    margin-top: -300px;
+}
+.container-main {
+    width: 618px;
+    height: 128px;
+    gap: 0px;
+    opacity: 1;
+    font-family: 'Clash Display';
+    line-height: 58px;
+    text-align: left;
+    color: black;
+    font-size: 60px;
+    font-weight: 700;
+    z-index: 2;
+
+
+
+}
+.star2{
+    position: absolute; 
+}
+.container-group1,
+.container-main {
+    position: absolute;
+}
+
+.container-group1{
+ margin-top: -180px;
+ z-index: -0.9;
+ 
+
+}
+.container-star3 {
+    width: 48px;
+    height: 48px;
+    margin-top: -90px;
+    margin-bottom: 10px;
+    margin-left: -110px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: -45deg;
+
+}
+.star2{
+    position: absolute;
+    margin-top: 610px;
+    margin-left: 100px;
+    rotate: -30deg;
+
+
+}
+
+.container-main img {
+    margin-top: -250px;
+    margin-left: -20px;
+
+
+}
+
+.container-main-small {
+    width: 550px;
+    text-align: left;
+    font-size: 18px;
+
+    height: 56px;
+    margin-top: 180px;
+
+    gap: 0px;
+    opacity: 0.5px;
+
+}
+
+.container-start {
+    margin-right: 450px;
+    margin-top: 32px;
+
+}
+
+.container-start button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-family: 'Clash Display';
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 500;
+    width: 170px;
+    margin-left: -377px;
+
+}
+
+.container-play {
+    display: flex;
+    margin-left: 250px;
+    margin-top: -40px;
+    width: 300px;
+
+}
+
+.container-play img {
+
+    width: 29px;
+    height: 29px;
+    margin-top: 4px;
+    left: 395px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+
+}
+
+.conatiner-watch {
+    font-family: 'Clash Display';
+    font-weight: 530;
+    size: 18px;
+    margin-top: 7px;
+    margin-left: 14px;
+
+
+}
+
+.container-right {
+    position: relative;
+    position: sticky;
+    margin-left: -930px;
+    margin-top: 29px;
+
+}
+
+.container-ring,
+.container-group,
+.container-phone3,
+.container-phone2,
+.container-phone1 {
+    position: absolute;
+}
+
+.container-phone3 {
+    margin-top: 150.4px;
+    margin-left: 200px;
+
+}
+
+.container-group {
+    margin-top: 400.4px;
+    transform: rotate(200deg);
+
+}
+
+.container-phone2 {
+    z-index: 4;
+    top: 70px;
+    /* Adjust position as needed */
+    left: 70px;
+    /* Adjust position as needed */
+}
+
+.container-phone1 {
+    z-index: 5;
+    top: -8px;
+    /* Adjust position as needed */
+    margin-left: -52px;
+    /* Adjust position as needed */
+    width: 223.45px;
+    height: 483.48px;
+
+
+
+}
+.star1{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 25px;
+}
+.group1{
+    width: 569px;
+height: 357.74px;
+margin-top: 30.75px;
+margin-left: -40px;
+gap: 0px;
+opacity: 0px;
+
+}

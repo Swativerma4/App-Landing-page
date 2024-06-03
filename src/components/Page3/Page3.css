@@ -1,0 +1,50 @@
+.conatiner-page3{
+    display: flex;
+    height: 100%; 
+    position: relative;
+    margin-left: -10px;
+    margin-top: 700px;
+    position: sticky;
+}
+.container-page3-left {
+    position: relative;
+    width: 50%; 
+    height: 100%;
+    position: sticky;
+    margin-top: 200px; 
+  }
+  
+  .container-grp,
+  .container-rings,
+  .container-phone {
+    position: absolute;
+   
+   
+  }
+  .page-group{
+      position: absolute;
+      margin-left: 211px;
+      margin-top: -10px;
+      width: 400px;
+  }
+  .container-grp {
+    margin-top: -350px;
+    left: 0;
+    z-index: 1;
+    transform: rotate(150deg); 
+    margin-left: -20px;
+  }
+  
+  
+  .container-rings {
+    margin-top: -400px; 
+    left: 20px; 
+    z-index: 2;
+  }
+  
+  .container-phone {
+  margin-top: -350px; 
+    margin-left: 130px; 
+    z-index: 3; 
+    transform: rotate(15deg);
+  }
